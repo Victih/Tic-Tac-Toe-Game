@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-Game
-A project with which I began to learn java. 
+Hey! 
+This project was my first "bigger" project with which I learned Java. The code doesn't look really good but it works. And that's all that counts, right?
